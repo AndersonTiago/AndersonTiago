@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/atbcosta"><img src="https://api.daily.dev/devcards/28c5674560f64dafb1a45ceb3725c604.png?r=fpr" width="400" alt="Anderson Bonamim's Dev Card"/></a>
-
 <div align="left">
   <a href="https://github.com/AndersonTiago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonTiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
